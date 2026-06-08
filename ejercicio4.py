@@ -14,7 +14,7 @@
 #Funciones de entrada y salida
 #Entrada-Input() / Salida-Print()
 
-nombre = input('¿Cómo te llamas?')
+nombre = input('¿Como te llamas?')
 edad = int(input('¿Qué edad tienes?'))
 
 #Diferentes formas de imprimir

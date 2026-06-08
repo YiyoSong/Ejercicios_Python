@@ -1,3 +1,4 @@
+#Realizado por Yiyi
 #Identificadores y vaiables
 #variables con snake_case
 #Quiero obtener el nombre de un alumno, ¿cómo debo definir mi identificador?
