@@ -1,5 +1,5 @@
 #Realizado por Yiyi
-#Identificadores y vaiables
+#Identificadores y variables
 #variables con snake_case
 #Quiero obtener el nombre de un alumno, ¿cómo debo definir mi identificador?
 nombre_alumno = 'Gissel Cornelio'
